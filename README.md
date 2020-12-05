@@ -2,13 +2,13 @@
 
 ~~不哭，不闹，不上吊。不要钱，不要房，不卖惨，只想安静做小三。~~
 
-不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN。
+不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个好VPN。
 
 # 下载
 
-[下载](https://cdn.jsdelivr.net/gh/sharmajv/vpn@main/3VPN-v101.apk)
+[最新版本下载](https://cdn.jsdelivr.net/gh/sharmajv/vpn@main/3VPN-v101.apk)
 
-[备用下载](https://raw.githubusercontent.com/sharmajv/vpn/main/3VPN-v101.apk)
+[备用版本下载](https://raw.githubusercontent.com/sharmajv/vpn/main/3VPN-v101.apk)
 
 
 
